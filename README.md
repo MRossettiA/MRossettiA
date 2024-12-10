@@ -52,9 +52,8 @@ Complementando mi experiencia técnica con conocimientos actualizados en program
 ---
 
 ## 📩 Contáctame  
-- **Email**: [TuEmail@ejemplo.com](mailto:TuEmail@ejemplo.com)  
-- **LinkedIn**: [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)  
-- **GitHub**: [github.com/tu-usuario](https://github.com/tu-usuario)  
+- **Email**: rossettia_martin@hotmail.com  
+- **LinkedIn**: https://www.linkedin.com/in/martin-rossetti-48b4262a1/
 
 ¡Estoy abierto a nuevas oportunidades laborales y dispuesto a contribuir con mi experiencia y habilidades a tu equipo! 🚀
 
